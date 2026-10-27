@@ -27,15 +27,15 @@
 
 1. Dans l'URL `https://www.google.com/maps`, quel est le nom de domaine ? Quel est le chemin ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ www.google.com et le chamin /maps
 
 2. Que veut dire le message *Not Found* ? Qui l'a envoyé : votre navigateur ou le serveur ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ "Not Found" (erreur 404) signifie que la page ou la ressource demandée n'existe pas à cette adresse.
 
 3. Que se passe-t-il si deux fonctions portent le même nom dans `flask_app.py` ? (Indice : essayez, puis lisez l'Error log.)
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ Flask lève une erreur (conflit d'endpoint) car deux fonctions ne peuvent pas partager le même nom, ce qui bloque le chargement de l'application et l'inscrit dans l'Error log.
 
 ---
 
