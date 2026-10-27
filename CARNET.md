@@ -1,10 +1,10 @@
 # 📒 Mon carnet de bord
 
-**Nom :** 
+**Nom : Malblanc** 
 
-**Prénom :** 
+**Prénom : Joaquim** 
 
-**Adresse de mon site :** https://______.pythonanywhere.com
+**Adresse de mon site :** https://GNULinux.pythonanywhere.com
 
 > Modifiez ce fichier directement sur GitHub (icône crayon ✏️) pour répondre aux questions de chaque exercice.
 > Écrivez avec vos propres mots : une réponse courte et juste vaut mieux qu'un long copier-coller ! 🙂
@@ -15,11 +15,11 @@
 
 1. Où se trouve physiquement le code qui fabrique votre page : sur votre ordinateur, sur GitHub ou sur PythonAnywhere ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ Python anywhere
 
 2. Pourquoi votre voisin(e) peut-il voir votre site, alors que vous n'avez rien installé sur son ordinateur ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ Parce que le site tourne sur un serveur distant (PythonAnywhere) accessible via Internet à l'aide d'une simple URL
 
 ---
 
