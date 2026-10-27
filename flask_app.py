@@ -27,11 +27,13 @@ def accueil():
 
 @app.get("/presentation")
 def presentation():
-    return "Je m'appelle Léa et je suis étudiante en informatique."
+    return "Je m appelle Léa et je suis étudiante en informatique."
+
+
 
 @app.get("/loisirs")
 def presentation():
-    return "J'aime le foot et la cuisine."
+    return "J aime le foot et la cuisine."
 
 # ---------------------------------------------------------------
 #  Ne pas modifier : utile seulement pour lancer le site
